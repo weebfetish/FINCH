@@ -1,7 +1,5 @@
 # FINCH
 A navigation website which isn't usual.
-# Navigation Website
-
 This is a navigation website that provides users with a variety of tools and resources to help them find their way around the world.
 
 ## Features
