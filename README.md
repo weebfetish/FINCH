@@ -1,6 +1,8 @@
 # FINCH
 A navigation website which isn't usual.
-This is a navigation website that provides users with a variety of tools and resources to help them find their way around the world.
+This is a navigation website that provides users with a variety of tools and resources to help them find their way locally, venturing those underrated places.
+
+`The project is still under develop locally. To know about the latest update and the phase we are in development, please consider joining the discord server. The server invite link is in my user profile`
 
 ## Features
 
